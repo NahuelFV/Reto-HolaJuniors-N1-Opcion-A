@@ -60,6 +60,10 @@ p{
     font-size: 0.9rem;
 }
 
+.botones a:hover{
+    text-decoration: underline;
+}
+
 .iconos{
     width: 30px;
 }
